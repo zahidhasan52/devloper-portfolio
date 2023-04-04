@@ -1,0 +1,82 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+p{
+    color: darkgrey;
+}
+.name-highlight{
+    color: crimson;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 5px;
+    color: aliceblue;
+    padding: 10px 10px;
+    margin-top: 7%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 3%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 6%;
+}
+.half-width img{ 
+    width: 90%;
+}.center{
+    width: 100%;
+    float:left;
+    text-align: center;
+}
+.leave{
+    background-position: center;
+    background-color: brown;
+    color:white;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+} 
+.footer{
+    text-align: center ;
+} p{
+    text-align: center;
+}
+.work img{
+width: 30%;
+}
+.work{
+    float:left;
+    border: 3%;
+    padding-left: 3%;
+    margin-left: 3%;
+    margin-bottom: 7%;
+} 
+ 
+.latest-work{
+    background-image: url("images/latest-work-bg.png");  
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.midle-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.last-bg{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+section{
+    height: 500px;
+    padding-bottom: 5%;
+}
